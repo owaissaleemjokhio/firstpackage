@@ -1,8 +1,8 @@
 <?php
 
-namespace Owais\Helloworld;
+namespace HelloWorld;
 
-class Example
+class Demo
 {
     public function greeting()
     {
