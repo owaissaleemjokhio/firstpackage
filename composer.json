@@ -1,0 +1,16 @@
+{
+    "name": "owaissaleemjokhio/firstpackage",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Owais\\Helloworld\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Muhammad Owais",
+            "email": "m.owais@tekrevol.com"
+        }
+    ],
+    "require": {}
+}
