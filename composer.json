@@ -1,6 +1,7 @@
 {
     "name": "owaissaleemjokhio/firstpackage",
     "type": "library",
+
     "autoload": {
         "psr-4": {
             "Owais\\Helloworld\\": "src/"
@@ -12,5 +13,9 @@
             "email": "m.owais@tekrevol.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": "^8.1"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
