@@ -1,6 +1,6 @@
 <?php
 
-namespace HelloWorld\Demo;
+namespace HelloWorld\MyDemo;
 
 class Demo
 {
